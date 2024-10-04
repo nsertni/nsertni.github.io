@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nsertni.github.io/sitemap.html.gz
+Sitemap: https://nsertni.github.io/app/sitemap.html.gz
+Sitemap: https://nsertni.github.io/assets/sitemap.html.gz
+Sitemap: https://nsertni.github.io/css/sitemap.html.gz
+Sitemap: https://nsertni.github.io/data/sitemap.html.gz
+Sitemap: https://nsertni.github.io/includes/sitemap.html.gz
+Sitemap: https://nsertni.github.io/item/sitemap.html.gz
+Sitemap: https://nsertni.github.io/src/sitemap.html.gz
